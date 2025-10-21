@@ -11,6 +11,8 @@ to interactively obtain IAM Actions.
 
 ## Usage
 
+![](./docs/usage.gif)
+
 ```bash
 bash iam-actions.sh
 ```
